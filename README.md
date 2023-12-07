@@ -26,4 +26,4 @@ I'm a student at UTBM pursuing a degree in computer engineering, passionate abou
 - **Frameworks/Technologies:** Unity, godot
 
 ## Portfolio:
-[Link to your portfolio](https://mazereauportfolio-eng.alwaysdata.net/)
+[Portfolio link](https://mazereauportfolio-eng.alwaysdata.net/)
