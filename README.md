@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 -->
  o
 
-# Hi there, I'm [Your Name]
+# Hi there, I'm Kilian
 
 ## About Me
 I'm a student at UTBM pursuing a degree in computer engineering, passionate about video games, virtual reality, and artificial intelligence. I've specialized in virtual world and AI-related courses, focusing on virtual reality, optimization algorithms, multi-agent systems, and machine learning.
 
 ## Skills
 - **Programming Languages:** C#, Python, JavaScript, LaTeX, C++, Java, HTML, CSS, PHP
-- **Frameworks/Technologies:** (Add the technologies you frequently use)
+- **Frameworks/Technologies:** Unity, godot
 
-## Notable Projects
-- **Portfolio:** [Link to your portfolio](https://mazereauportfolio-eng.alwaysdata.net/)
+## Portfolio:
+[Link to your portfolio](https://mazereauportfolio-eng.alwaysdata.net/)
