@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **KikitoBk/KikitoBk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,4 +25,4 @@ I'm a student at UTBM pursuing a degree in computer engineering, passionate abou
 - **Frameworks/Technologies:** Unity, godot
 
 ## Portfolio:
-[Portfolio link](https://mazereauportfolio-eng.alwaysdata.net/)
+https://mazereauportfolio-eng.alwaysdata.net/
